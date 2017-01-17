@@ -19,6 +19,7 @@ public class Prueba {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Prueba");
+        JOptionPane.showMessageDialog(null, "cambio 01");
     }
     
 }
